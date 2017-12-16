@@ -1,6 +1,5 @@
 use super::read_file;
 use std::collections::{HashMap,HashSet,VecDeque};
-use std::mem;
 
 fn parse(input: String) -> HashMap<u32,Vec<u32>> {
     let mut pipes: HashMap<u32,Vec<u32>> = HashMap::new();

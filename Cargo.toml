@@ -7,4 +7,4 @@ authors = ["Nathan Skillen <nskillen@gmail.com>"]
 regex = "0.2.3"
 lazy_static = "1.0.0"
 time = "0.1.38"
-bit-vec = "0.4.4"
+num = "0.1.41"
