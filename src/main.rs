@@ -51,6 +51,8 @@ fn main() {
                     "d15_2" => d15::part2(),
                     "d16"   => d16::part1(),
                     "d16_2" => d16::part2(),
+                    "d17"   => d17::part1(),
+                    "d17_2" => d17::part2(),
                     d       => println!("Error: unknown day '{}'", d)
                 }
             }
