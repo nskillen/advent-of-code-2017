@@ -17,6 +17,7 @@ pub mod d16;
 pub mod d17;
 pub mod d18;
 pub mod d19;
+pub mod d20;
 
 fn read_file(filename: &str) -> Result<String, String> {
     Ok(String::new())
